@@ -1,0 +1,15 @@
+c:\users\djaka\documents\visual studio 2015\Projects\DataBayarListrik\DataBayarListrik\bin\Debug\DataBayarListrik.exe.config
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Debug\DataBayarListrik.csprojResolveAssemblyReference.cache
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Debug\MainWindow.g.cs
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Debug\App.g.cs
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Debug\DataBayarListrik_MarkupCompile.cache
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Debug\DataBayarListrik_MarkupCompile.lref
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\bin\Debug\DataBayarListrik.exe
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\bin\Debug\DataBayarListrik.pdb
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Debug\App.baml
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Debug\MainWindow.baml
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Debug\DataBayarListrik.g.resources
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Debug\DataBayarListrik.Properties.Resources.resources
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Debug\DataBayarListrik.csproj.GenerateResource.Cache
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Debug\DataBayarListrik.exe
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Debug\DataBayarListrik.pdb

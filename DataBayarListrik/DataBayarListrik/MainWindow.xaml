@@ -1,0 +1,59 @@
+﻿<Window x:Class="DataBayarListrik.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataBayarListrik"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="480" Width="800.5" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="224"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Fill="#FF3AA6F1"/>
+        <Rectangle Fill="#FF3A82F1" Height="89" VerticalAlignment="Top"/>
+
+        <Image Source="DTechnologyNoRoom.png" Height="89" VerticalAlignment="Top"/>
+        <Button Name="dashboardButton" Content="Data Pelanggan" Style="{DynamicResource ActiveNav}" Margin="0,90,0,0" VerticalAlignment="Top" Height="75" FontSize="16"/>
+        <TabControl Name="mainTab" Grid.Column="1" Margin="0,59,0,0" Padding="0" BorderThickness="0">
+            <TabItem Header="TabItem">
+                <Grid Background="White">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="575*"/>
+                        <ColumnDefinition Width="233*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="365*"/>
+                        <RowDefinition Height="211*"/>
+                    </Grid.RowDefinitions>
+                    <DataGrid Name="customerGrid" Margin="25,204,21,48" Grid.ColumnSpan="2" Grid.RowSpan="2" FontSize="14"/>
+                    <Button Name="reset"  Content="Hapus" Style="{StaticResource DeclineButton}" HorizontalAlignment="Right" Margin="0,0,21,13" VerticalAlignment="Bottom" Width="119" Height="30" FontSize="14" BorderThickness="0,0,0,1" BorderBrush="#FFBD1C1C" Grid.Column="1" Grid.Row="1" Click="reset_Click" KeyDown="reset_KeyDown"/>
+
+                    <Button x:Name="search" Content="Cari Data" Grid.Column="1" Style="{StaticResource PrimaryButton}" HorizontalAlignment="Left" Margin="10,27,0,0" VerticalAlignment="Top" Width="135" Padding="4" Height="39" FontSize="16" Click="search_Click" ToolTip="Cari data sesuai input"/>
+                    <GroupBox x:Name="groupBox" Header="Input" Margin="25,10,10,0" VerticalAlignment="Top" Height="180" FontSize="14">
+                        <Grid Margin="10,10,11,4">
+                            <Label Content="Nama" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,1,0,0" Padding="0,5,5,5" FontSize="14"/>
+                            <TextBox x:Name="textName" MinWidth="120px" TextWrapping="Wrap" Margin="10,32,151,87" KeyDown="textName_KeyDown" FontSize="14" RenderTransformOrigin="0.5,0.5">
+                                <TextBox.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform/>
+                                        <SkewTransform/>
+                                        <RotateTransform Angle="-0.593"/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </TextBox.RenderTransform>
+                            </TextBox>
+                            <Label x:Name="label_Copy" Content="Nomor Pelanggan" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,62,0,0" Padding="0,5,5,5" FontSize="14"/>
+                            <TextBox x:Name="textCustomerId" MinWidth="120px" TextWrapping="Wrap" Margin="10,94,152,23" FontSize="14" KeyDown="textCustomerId_KeyDown"/>
+                        </Grid>
+                    </GroupBox>
+                    <Button x:Name="insert" Content="Tambahkan Data" Grid.Column="1" Style="{StaticResource PrimaryButton}" HorizontalAlignment="Left" Margin="10,81,0,0" VerticalAlignment="Top" Width="135" Padding="4" Height="39" FontSize="16" Click="insert_Click" ToolTip="Tambah daa sesuai input"/>
+                </Grid>
+            </TabItem>
+            <DataGrid Height="100" Width="100"/>
+        </TabControl>
+        <TextBlock HorizontalAlignment="Left" Margin="28,15,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="44" Width="422" FontSize="24" FontWeight="Bold" Foreground="Black" Text="Data Pelanggan Listrik" Grid.Column="1"/>
+        <Button x:Name="reportButton_Copy" Content="Keluar" Style="{DynamicResource DeclineButton}" FontSize="16" Height="46" VerticalAlignment="Bottom" Margin="0,0,0,-2" Click="reportButton_Copy_Click"/>
+    </Grid>
+</Window>

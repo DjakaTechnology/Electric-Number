@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBayarListrik", "DataBayarListrik\DataBayarListrik.csproj", "{6CAC87E6-C068-420A-839D-431D0C10BA1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CAC87E6-C068-420A-839D-431D0C10BA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAC87E6-C068-420A-839D-431D0C10BA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CAC87E6-C068-420A-839D-431D0C10BA1B}.Debug|x64.ActiveCfg = Debug|x64
+		{6CAC87E6-C068-420A-839D-431D0C10BA1B}.Debug|x64.Build.0 = Debug|x64
+		{6CAC87E6-C068-420A-839D-431D0C10BA1B}.Debug|x86.ActiveCfg = Debug|x86
+		{6CAC87E6-C068-420A-839D-431D0C10BA1B}.Debug|x86.Build.0 = Debug|x86
+		{6CAC87E6-C068-420A-839D-431D0C10BA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAC87E6-C068-420A-839D-431D0C10BA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CAC87E6-C068-420A-839D-431D0C10BA1B}.Release|x64.ActiveCfg = Release|x64
+		{6CAC87E6-C068-420A-839D-431D0C10BA1B}.Release|x64.Build.0 = Release|x64
+		{6CAC87E6-C068-420A-839D-431D0C10BA1B}.Release|x86.ActiveCfg = Release|x86
+		{6CAC87E6-C068-420A-839D-431D0C10BA1B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

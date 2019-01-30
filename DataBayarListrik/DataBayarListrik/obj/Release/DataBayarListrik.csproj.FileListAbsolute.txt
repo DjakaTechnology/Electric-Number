@@ -1,0 +1,17 @@
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\bin\Release\DataBayarListrik.exe.config
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\bin\Release\DataBayarListrik.exe
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\bin\Release\DataBayarListrik.pdb
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Release\MainWindow.g.cs
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Release\App.g.cs
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Release\DataBayarListrik_MarkupCompile.cache
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Release\DataBayarListrik_MarkupCompile.lref
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Release\App.baml
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Release\MainWindow.baml
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Release\DataBayarListrik.g.resources
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Release\DataBayarListrik.Properties.Resources.resources
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Release\DataBayarListrik.csproj.GenerateResource.Cache
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Release\DataBayarListrik.exe
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Release\DataBayarListrik.pdb
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\bin\Release\DTechnologyNoRoom.png
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Release\DataBayarListrik.csprojResolveAssemblyReference.cache
+c:\Users\djaka\Documents\Visual Studio 2015\Projects\DataBayarListrik\DataBayarListrik\obj\Release\DataBayarListrik_Content.g.cs
